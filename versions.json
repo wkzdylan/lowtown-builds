@@ -10,8 +10,8 @@
       "tag": "v0.1.2",
       "notes": "The server list works, and the city opens up further.\n\n- Servers: the game and dedicated servers now reach Lowtown's own server list and accounts, so Pelican and other public servers show up in Servers, and you can sign in.\n- Every storey of houses, flats and offices is walk-in, with stairs; windows with a room behind them are see-through.\n- TVs in the city play one channel, in sync for everyone.\n- Smoother driving at speed.\n\n- Lowtown-0.1.2-win64.zip: the game for Windows 10/11 (unzip, run Lowtown.exe).\n- Lowtown-0.1.2-linux-x86_64.zip: the game for Linux and the Steam Deck (unzip, run Lowtown.x86_64).\n- Lowtown-Server-0.1.2-linux-arm64.zip: the dedicated server for Linux on ARM64, as the Pelican egg installs it.\n\nA pre-release. Players need 0.1.2 to join a 0.1.2 server.",
       "asset": "Lowtown-0.1.2-win64.zip",
-      "size": 332218711,
-      "sha256": "3d252fda844231169781f55fb32b795b5b6dcdbe3d5d46b460d0406906428c89",
+      "size": 282704525,
+      "sha256": "3b875a8363e5dcd72b818cb998358410813b60d1eb40b2740b1d5ba43861beeb",
       "linux": {
         "asset": "Lowtown-0.1.2-linux-x86_64.zip",
         "size": 114207892,
