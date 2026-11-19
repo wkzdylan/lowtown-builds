@@ -1,8 +1,28 @@
 {
   "schema": 1,
   "repo": "wkzdylan/lowtown-builds",
-  "updated": "2026-11-19T19:29:58Z",
+  "updated": "2026-11-19T21:13:34Z",
   "versions": [
+    {
+      "version": "0.1.4",
+      "channel": "stable",
+      "date": "2026-11-19T21:13:34Z",
+      "tag": "v0.1.4",
+      "notes": "Mission 2 and the phone are voiced: Sal, the Calder Mutual agent, Dante's new lines and calls.",
+      "asset": "Lowtown-0.1.4-win64.zip",
+      "size": 331362230,
+      "sha256": "92e23b02e633a4f827bcbc7ea12923fb03d567588cc1b845663358cab408f7b2",
+      "linux": {
+        "asset": "Lowtown-0.1.4-linux-x86_64.zip",
+        "size": 299471107,
+        "sha256": "c0beeaa1098863354b5a939d795b0f7bee61059242a69e4dcfb30ccd84f736ea"
+      },
+      "server_linux_arm64": {
+        "asset": "Lowtown-Server-0.1.4-linux-arm64.zip",
+        "size": 314592094,
+        "sha256": "06b4a5ff610792833e1019322da716fa03c56e516b0190d485d1d3c6b6e48665"
+      }
+    },
     {
       "version": "0.1.3",
       "channel": "stable",
