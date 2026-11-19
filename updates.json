@@ -1,0 +1,52 @@
+{
+  "updated": "2026-11-19",
+  "hero": { "src": "harbour.jpg", "w": 1280, "h": 720, "alt": "Calder Bay's harbour and docks on a clear morning, the city behind them", "caption": "Calder Bay from the water, morning" },
+  "pictures": [
+    { "src": "carjack.jpg", "w": 1280, "h": 720, "alt": "A driver thrown out of his white sports car at a crossing", "caption": "Any car, parked or in traffic" },
+    { "src": "downtown.jpg", "w": 1280, "h": 720, "alt": "People walking past a liquor store on a downtown pavement", "caption": "Downtown on foot" },
+    { "src": "flat.jpg", "w": 1280, "h": 720, "alt": "Inside a block of flats, a neighbour at an open door", "caption": "Doors that open onto lives" },
+    { "src": "street.jpg", "w": 1280, "h": 720, "alt": "A player on a corner lawn, offices and traffic lights behind", "caption": "The east side" }
+  ],
+  "inProgress": [
+    {
+      "title": "Accounts and the server list",
+      "status": "building",
+      "body": "A Lowtown account to keep your name online, and a public list of servers to join, on the new accounts site. The launcher links to it under Your account.",
+      "images": []
+    },
+    {
+      "title": "Interiors with people in them",
+      "status": "testing",
+      "body": "Houses, flats, shops and workplaces you can walk into, each with the people who live or work there going about their day.",
+      "images": [{ "src": "flat.jpg", "w": 1280, "h": 720, "alt": "Inside a block of flats, a neighbour at an open door", "caption": "A block of flats" }]
+    },
+    {
+      "title": "City map and GPS",
+      "status": "testing",
+      "body": "A full-screen map of Calder Bay, a radar in the corner, and a waypoint the GPS draws a route to.",
+      "images": []
+    },
+    {
+      "title": "Night in the city",
+      "status": "planned",
+      "body": "Lit windows and headlights that light the road. The city has three times of day for now.",
+      "images": []
+    }
+  ],
+  "releases": [
+    {
+      "date": "2026-11-17",
+      "label": "0.1.0 (beta)",
+      "title": "First build",
+      "summary": "Calder Bay, a harbour city with traffic, people, police, jobs and shops, alone or online with friends.",
+      "entries": [
+        { "type": "new", "title": "Calder Bay.", "text": "Downtown towers, shops and offices, houses, industry, docks and parks on a nine-by-nine grid of streets, with hills and the sea round it.", "images": [{ "src": "harbour.jpg", "w": 1280, "h": 720, "alt": "Calder Bay's harbour and docks on a clear morning", "caption": "The harbour" }] },
+        { "type": "new", "title": "Traffic and cars.", "text": "Traffic keeps its lanes and stops at the lights. Take any car, parked or pulled from its driver.", "images": [{ "src": "driving.jpg", "w": 1280, "h": 720, "alt": "A white sports car driving down a city street", "caption": "On the road" }] },
+        { "type": "new", "title": "People on the street.", "text": "Voiced people who walk the pavements, talk to each other and run from gunfire, with a few outrageous characters among them." },
+        { "type": "new", "title": "Jobs, cash and shops.", "text": "Courier runs, repossessions and gang bosses at the yellow markers; spend the money at the gun shop and the paint shop." },
+        { "type": "new", "title": "Wanted level.", "text": "One to five stars. The police arrest at one and shoot from two; stay out of sight and the stars come down." },
+        { "type": "new", "title": "Online.", "text": "Host the city for friends or join theirs; the host runs the city." }
+      ]
+    }
+  ]
+}
