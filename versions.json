@@ -23,5 +23,13 @@
         "sha256": "03c32785f0dd0ab94d2e228e57063e6bef2953535e5a16088c7c05b9bd1c8750"
       }
     }
-  ]
+  ],
+  "launcher": {
+    "version": "1.0.0",
+    "tag": "launcher",
+    "asset": "Lowtown-Launcher-win64.zip",
+    "size": 66398428,
+    "sha256": "96756588163be9557159b0073abef8bbf51b8c5f65eb66de480d55f73bc9dca2",
+    "date": "2026-11-19T04:21:40Z"
+  }
 }
