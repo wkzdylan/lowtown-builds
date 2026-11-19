@@ -1,8 +1,28 @@
 {
   "schema": 1,
   "repo": "wkzdylan/lowtown-builds",
-  "updated": "2026-11-17T08:19:48Z",
+  "updated": "2026-11-19T05:16:52Z",
   "versions": [
+    {
+      "version": "0.1.1",
+      "channel": "beta",
+      "date": "2026-11-19T05:16:52Z",
+      "tag": "v0.1.1",
+      "notes": "Calder Bay's people talk now, and buildings open up.\n\n- City people speak, each with their own voice, and have more street lines.\n- Interiors: walk into homes, shops and workplaces, with people inside.\n- A city map and GPS: open the map, set a waypoint, follow the route.\n- Faces that blink, talk and move their brows; a men's base body.\n- Stray cars get towed; many smaller fixes to people on foot and the city.\n\n- Lowtown-0.1.1-win64.zip: the game for Windows 10/11 (unzip, run Lowtown.exe).\n- Lowtown-0.1.1-linux-x86_64.zip: the game for Linux and the Steam Deck (unzip, run Lowtown.x86_64).\n- Lowtown-Server-0.1.1-linux-arm64.zip: the dedicated server for Linux on ARM64, as the Pelican egg installs it.\n\nA pre-release. Players need 0.1.1 to join a 0.1.1 server.",
+      "asset": "Lowtown-0.1.1-win64.zip",
+      "size": 117760446,
+      "sha256": "600aa7b8605ac1a192b07b5b02252ac1d92c5d7a8392f2d68157b5886b5a2d33",
+      "linux": {
+        "asset": "Lowtown-0.1.1-linux-x86_64.zip",
+        "size": 113174493,
+        "sha256": "e4093e66e7ce775c9b09040ae1f1ccf82d24d8003aff0c4063915e5cf8f79124"
+      },
+      "server_linux_arm64": {
+        "asset": "Lowtown-Server-0.1.1-linux-arm64.zip",
+        "size": 119543878,
+        "sha256": "8a952b09ff154f010134693df28094f0652768462ca5ae20dbb62a5496ded325"
+      }
+    },
     {
       "version": "0.1.0",
       "channel": "beta",
@@ -23,13 +43,5 @@
         "sha256": "03c32785f0dd0ab94d2e228e57063e6bef2953535e5a16088c7c05b9bd1c8750"
       }
     }
-  ],
-  "launcher": {
-    "version": "1.0.0",
-    "tag": "launcher",
-    "asset": "Lowtown-Launcher-win64.zip",
-    "size": 66398428,
-    "sha256": "96756588163be9557159b0073abef8bbf51b8c5f65eb66de480d55f73bc9dca2",
-    "date": "2026-11-19T04:21:40Z"
-  }
+  ]
 }
